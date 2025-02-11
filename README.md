@@ -2,8 +2,8 @@
 
 This is a simple clone of the Zerodha homepage built using **HTML and CSS**.
 
-## 📷 Screenshot
-    (image.png)
+## 📷 Screenshot  
+![Zerodha Homepage Clone](image.png)
 
 ## 🌟 Features
 - Clean and minimalistic UI
