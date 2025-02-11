@@ -3,7 +3,7 @@
 This is a simple clone of the Zerodha homepage built using **HTML and CSS**.
 
 ## 📷 Screenshot
-![alt text](image.png)
+    (image.png)
 
 ## 🌟 Features
 - Clean and minimalistic UI
